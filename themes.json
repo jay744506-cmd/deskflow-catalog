@@ -1,1 +1,25 @@
-{"schemaVersion":1,"themes":[]}
+{
+  "schemaVersion": 1,
+  "themes": [
+    {
+      "id": "seaside",
+      "title": "浅海沙洲",
+      "minimumAppVersion": "1.11.4",
+      "cover": "themes/seaside/cover.jpg",
+      "wallpaper": "themes/seaside/wallpaper.jpg",
+      "style": {
+        "radius": 12,
+        "blur": 0,
+        "autoBlend": false,
+        "opacity": 82,
+        "chrome": "minimal",
+        "fontColor": "#153D3B",
+        "background": "#F6E6C5",
+        "border": "none"
+      },
+      "effect": "off",
+      "reference": "https://github.com/BLEZZ0102/Deskland",
+      "description": "原创俯瞰浅海壁纸，搭配暖沙分区。"
+    }
+  ]
+}
