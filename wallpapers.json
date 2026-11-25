@@ -1,0 +1,669 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "anime",
+      "title": "动漫"
+    },
+    {
+      "id": "landscape",
+      "title": "风光"
+    },
+    {
+      "id": "portrait",
+      "title": "人像"
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "anime-01",
+      "title": "海边假日",
+      "category": "anime",
+      "image": "wallpapers/anime/01.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/01.jpg",
+      "width": 1199,
+      "height": 672,
+      "bytes": 72430
+    },
+    {
+      "id": "anime-02",
+      "title": "草甸小憩",
+      "category": "anime",
+      "image": "wallpapers/anime/02.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/02.jpg",
+      "width": 1199,
+      "height": 674,
+      "bytes": 129289
+    },
+    {
+      "id": "anime-03",
+      "title": "云下牧歌",
+      "category": "anime",
+      "image": "wallpapers/anime/03.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/03.jpg",
+      "width": 1200,
+      "height": 674,
+      "bytes": 112201
+    },
+    {
+      "id": "anime-04",
+      "title": "袖间一瞥",
+      "category": "anime",
+      "image": "wallpapers/anime/04.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/04.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 37272
+    },
+    {
+      "id": "anime-05",
+      "title": "紫发少女",
+      "category": "anime",
+      "image": "wallpapers/anime/05.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/05.jpg",
+      "width": 1200,
+      "height": 712,
+      "bytes": 50581
+    },
+    {
+      "id": "anime-06",
+      "title": "流星夜",
+      "category": "anime",
+      "image": "wallpapers/anime/06.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/06.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 350152
+    },
+    {
+      "id": "anime-07",
+      "title": "月下回眸",
+      "category": "anime",
+      "image": "wallpapers/anime/07.png",
+      "thumbnail": "wallpapers/anime/thumbnails/07.jpg",
+      "width": 1664,
+      "height": 936,
+      "bytes": 2757205
+    },
+    {
+      "id": "anime-08",
+      "title": "霓彩兜帽",
+      "category": "anime",
+      "image": "wallpapers/anime/08.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/08.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 561583
+    },
+    {
+      "id": "anime-09",
+      "title": "墨染孤影",
+      "category": "anime",
+      "image": "wallpapers/anime/09.png",
+      "thumbnail": "wallpapers/anime/thumbnails/09.jpg",
+      "width": 1664,
+      "height": 936,
+      "bytes": 2286638
+    },
+    {
+      "id": "anime-10",
+      "title": "圆月忍者",
+      "category": "anime",
+      "image": "wallpapers/anime/10.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/10.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 95347
+    },
+    {
+      "id": "anime-11",
+      "title": "静默剑客",
+      "category": "anime",
+      "image": "wallpapers/anime/11.png",
+      "thumbnail": "wallpapers/anime/thumbnails/11.jpg",
+      "width": 1664,
+      "height": 936,
+      "bytes": 2545246
+    },
+    {
+      "id": "anime-12",
+      "title": "月球来客",
+      "category": "anime",
+      "image": "wallpapers/anime/12.png",
+      "thumbnail": "wallpapers/anime/thumbnails/12.jpg",
+      "width": 1904,
+      "height": 1071,
+      "bytes": 2678241
+    },
+    {
+      "id": "anime-13",
+      "title": "白发焰影",
+      "category": "anime",
+      "image": "wallpapers/anime/13.png",
+      "thumbnail": "wallpapers/anime/thumbnails/13.jpg",
+      "width": 2208,
+      "height": 1242,
+      "bytes": 1854143
+    },
+    {
+      "id": "anime-14",
+      "title": "夜色拔刀",
+      "category": "anime",
+      "image": "wallpapers/anime/14.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/14.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 100997
+    },
+    {
+      "id": "anime-15",
+      "title": "水镜凝眸",
+      "category": "anime",
+      "image": "wallpapers/anime/15.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/15.jpg",
+      "width": 2160,
+      "height": 1215,
+      "bytes": 265343
+    },
+    {
+      "id": "anime-16",
+      "title": "水墨交锋",
+      "category": "anime",
+      "image": "wallpapers/anime/16.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/16.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 94618
+    },
+    {
+      "id": "anime-17",
+      "title": "暗夜钓客",
+      "category": "anime",
+      "image": "wallpapers/anime/17.png",
+      "thumbnail": "wallpapers/anime/thumbnails/17.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 207474
+    },
+    {
+      "id": "anime-18",
+      "title": "武藏",
+      "category": "anime",
+      "image": "wallpapers/anime/18.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/18.jpg",
+      "width": 4800,
+      "height": 2700,
+      "bytes": 364719
+    },
+    {
+      "id": "anime-19",
+      "title": "双翼契约",
+      "category": "anime",
+      "image": "wallpapers/anime/19.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/19.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 360712
+    },
+    {
+      "id": "anime-20",
+      "title": "紫夜花雨",
+      "category": "anime",
+      "image": "wallpapers/anime/20.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/20.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 214830
+    },
+    {
+      "id": "anime-21",
+      "title": "一线寒光",
+      "category": "anime",
+      "image": "wallpapers/anime/21.png",
+      "thumbnail": "wallpapers/anime/thumbnails/21.jpg",
+      "width": 4096,
+      "height": 2304,
+      "bytes": 1951553
+    },
+    {
+      "id": "anime-22",
+      "title": "云上同行",
+      "category": "anime",
+      "image": "wallpapers/anime/22.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/22.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 115245
+    },
+    {
+      "id": "anime-23",
+      "title": "苍龙对峙",
+      "category": "anime",
+      "image": "wallpapers/anime/23.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/23.jpg",
+      "width": 7248,
+      "height": 4077,
+      "bytes": 3424330
+    },
+    {
+      "id": "anime-24",
+      "title": "晴日街角",
+      "category": "anime",
+      "image": "wallpapers/anime/24.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/24.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 358611
+    },
+    {
+      "id": "anime-25",
+      "title": "蓝夜回望",
+      "category": "anime",
+      "image": "wallpapers/anime/25.jpg",
+      "thumbnail": "wallpapers/anime/thumbnails/25.jpg",
+      "width": 2048,
+      "height": 1152,
+      "bytes": 142896
+    },
+    {
+      "id": "landscape-01",
+      "title": "雾林飞鹰",
+      "category": "landscape",
+      "image": "wallpapers/landscape/01.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/01.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 360359
+    },
+    {
+      "id": "landscape-02",
+      "title": "雪山静海",
+      "category": "landscape",
+      "image": "wallpapers/landscape/02.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/02.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 917504
+    },
+    {
+      "id": "landscape-03",
+      "title": "雾岭溪谷",
+      "category": "landscape",
+      "image": "wallpapers/landscape/03.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/03.jpg",
+      "width": 1184,
+      "height": 666,
+      "bytes": 372726
+    },
+    {
+      "id": "landscape-04",
+      "title": "湖畔木屋",
+      "category": "landscape",
+      "image": "wallpapers/landscape/04.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/04.jpg",
+      "width": 1184,
+      "height": 666,
+      "bytes": 296581
+    },
+    {
+      "id": "landscape-05",
+      "title": "晴谷碧湖",
+      "category": "landscape",
+      "image": "wallpapers/landscape/05.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/05.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 1249421
+    },
+    {
+      "id": "landscape-06",
+      "title": "绿荫水潭",
+      "category": "landscape",
+      "image": "wallpapers/landscape/06.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/06.jpg",
+      "width": 1328,
+      "height": 747,
+      "bytes": 283292
+    },
+    {
+      "id": "landscape-07",
+      "title": "雪峰镜湖",
+      "category": "landscape",
+      "image": "wallpapers/landscape/07.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/07.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 128259
+    },
+    {
+      "id": "landscape-08",
+      "title": "稻田落日",
+      "category": "landscape",
+      "image": "wallpapers/landscape/08.png",
+      "thumbnail": "wallpapers/landscape/thumbnails/08.jpg",
+      "width": 2896,
+      "height": 1629,
+      "bytes": 11294462
+    },
+    {
+      "id": "landscape-09",
+      "title": "松林急流",
+      "category": "landscape",
+      "image": "wallpapers/landscape/09.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/09.jpg",
+      "width": 2896,
+      "height": 1629,
+      "bytes": 2249453
+    },
+    {
+      "id": "landscape-10",
+      "title": "幽谷微光",
+      "category": "landscape",
+      "image": "wallpapers/landscape/10.png",
+      "thumbnail": "wallpapers/landscape/thumbnails/10.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 6018476
+    },
+    {
+      "id": "landscape-11",
+      "title": "雾林公路",
+      "category": "landscape",
+      "image": "wallpapers/landscape/11.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/11.jpg",
+      "width": 1488,
+      "height": 837,
+      "bytes": 370370
+    },
+    {
+      "id": "landscape-12",
+      "title": "秋林直道",
+      "category": "landscape",
+      "image": "wallpapers/landscape/12.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/12.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 378093
+    },
+    {
+      "id": "landscape-13",
+      "title": "绿境孤树",
+      "category": "landscape",
+      "image": "wallpapers/landscape/13.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/13.jpg",
+      "width": 2128,
+      "height": 1197,
+      "bytes": 255122
+    },
+    {
+      "id": "landscape-14",
+      "title": "松海晨雾",
+      "category": "landscape",
+      "image": "wallpapers/landscape/14.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/14.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 465617
+    },
+    {
+      "id": "landscape-15",
+      "title": "群峰倒影",
+      "category": "landscape",
+      "image": "wallpapers/landscape/15.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/15.jpg",
+      "width": 1072,
+      "height": 603,
+      "bytes": 286953
+    },
+    {
+      "id": "landscape-16",
+      "title": "雪岭银河",
+      "category": "landscape",
+      "image": "wallpapers/landscape/16.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/16.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 2022188
+    },
+    {
+      "id": "landscape-17",
+      "title": "林间金光",
+      "category": "landscape",
+      "image": "wallpapers/landscape/17.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/17.jpg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 1020135
+    },
+    {
+      "id": "landscape-18",
+      "title": "金岸蓝湖",
+      "category": "landscape",
+      "image": "wallpapers/landscape/18.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/18.jpg",
+      "width": 1072,
+      "height": 603,
+      "bytes": 242058
+    },
+    {
+      "id": "landscape-19",
+      "title": "浮冰之海",
+      "category": "landscape",
+      "image": "wallpapers/landscape/19.jpg",
+      "thumbnail": "wallpapers/landscape/thumbnails/19.jpg",
+      "width": 2000,
+      "height": 1125,
+      "bytes": 372861
+    },
+    {
+      "id": "landscape-20",
+      "title": "暮色山河",
+      "category": "landscape",
+      "image": "wallpapers/landscape/20.png",
+      "thumbnail": "wallpapers/landscape/thumbnails/20.jpg",
+      "width": 1360,
+      "height": 765,
+      "bytes": 2572546
+    },
+    {
+      "id": "portrait-01",
+      "title": "海边静立",
+      "category": "portrait",
+      "image": "wallpapers/portrait/01.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/01.jpg",
+      "width": 5376,
+      "height": 3024,
+      "bytes": 474892
+    },
+    {
+      "id": "portrait-02",
+      "title": "暖阳回眸",
+      "category": "portrait",
+      "image": "wallpapers/portrait/02.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/02.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 121750
+    },
+    {
+      "id": "portrait-03",
+      "title": "水下浮光",
+      "category": "portrait",
+      "image": "wallpapers/portrait/03.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/03.jpg",
+      "width": 2128,
+      "height": 1197,
+      "bytes": 575643
+    },
+    {
+      "id": "portrait-04",
+      "title": "午后沉思",
+      "category": "portrait",
+      "image": "wallpapers/portrait/04.png",
+      "thumbnail": "wallpapers/portrait/thumbnails/04.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 2518858
+    },
+    {
+      "id": "portrait-05",
+      "title": "石墙侧光",
+      "category": "portrait",
+      "image": "wallpapers/portrait/05.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/05.jpg",
+      "width": 1360,
+      "height": 765,
+      "bytes": 218517
+    },
+    {
+      "id": "portrait-06",
+      "title": "人潮仰望",
+      "category": "portrait",
+      "image": "wallpapers/portrait/06.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/06.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 277697
+    },
+    {
+      "id": "portrait-07",
+      "title": "白衣窗影",
+      "category": "portrait",
+      "image": "wallpapers/portrait/07.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/07.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 30249
+    },
+    {
+      "id": "portrait-08",
+      "title": "落叶斑光",
+      "category": "portrait",
+      "image": "wallpapers/portrait/08.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/08.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 378458
+    },
+    {
+      "id": "portrait-09",
+      "title": "花覆眉眼",
+      "category": "portrait",
+      "image": "wallpapers/portrait/09.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/09.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 134776
+    },
+    {
+      "id": "portrait-10",
+      "title": "金野回眸",
+      "category": "portrait",
+      "image": "wallpapers/portrait/10.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/10.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 408108
+    },
+    {
+      "id": "portrait-11",
+      "title": "海风乱发",
+      "category": "portrait",
+      "image": "wallpapers/portrait/11.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/11.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 141221
+    },
+    {
+      "id": "portrait-12",
+      "title": "暗光侧影",
+      "category": "portrait",
+      "image": "wallpapers/portrait/12.png",
+      "thumbnail": "wallpapers/portrait/thumbnails/12.jpg",
+      "width": 1664,
+      "height": 936,
+      "bytes": 1925932
+    },
+    {
+      "id": "portrait-13",
+      "title": "树影仰望",
+      "category": "portrait",
+      "image": "wallpapers/portrait/13.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/13.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 95151
+    },
+    {
+      "id": "portrait-14",
+      "title": "窗边落日",
+      "category": "portrait",
+      "image": "wallpapers/portrait/14.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/14.jpg",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 189257
+    },
+    {
+      "id": "portrait-15",
+      "title": "暮光侧脸",
+      "category": "portrait",
+      "image": "wallpapers/portrait/15.png",
+      "thumbnail": "wallpapers/portrait/thumbnails/15.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 1670020
+    },
+    {
+      "id": "portrait-16",
+      "title": "霓虹夜色",
+      "category": "portrait",
+      "image": "wallpapers/portrait/16.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/16.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 120513
+    },
+    {
+      "id": "portrait-17",
+      "title": "花店午后",
+      "category": "portrait",
+      "image": "wallpapers/portrait/17.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/17.jpg",
+      "width": 1360,
+      "height": 765,
+      "bytes": 260892
+    },
+    {
+      "id": "portrait-18",
+      "title": "玻璃暖影",
+      "category": "portrait",
+      "image": "wallpapers/portrait/18.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/18.jpg",
+      "width": 2544,
+      "height": 1431,
+      "bytes": 1401760
+    },
+    {
+      "id": "portrait-19",
+      "title": "画室斜阳",
+      "category": "portrait",
+      "image": "wallpapers/portrait/19.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/19.jpg",
+      "width": 1200,
+      "height": 675,
+      "bytes": 62952
+    },
+    {
+      "id": "portrait-20",
+      "title": "车窗掠影",
+      "category": "portrait",
+      "image": "wallpapers/portrait/20.jpg",
+      "thumbnail": "wallpapers/portrait/thumbnails/20.jpg",
+      "width": 1456,
+      "height": 819,
+      "bytes": 291906
+    }
+  ]
+}
